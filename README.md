@@ -1,6 +1,8 @@
 # BMI Calculator with flutter
 Screen Shorts.
-![](one.png) ![](two.png)
+<img src="one.png"
+     alt="Home"
+     style="float: left; margin-right: 10px; width:300px; height:700px" />
 
 
 ## Getting Started
