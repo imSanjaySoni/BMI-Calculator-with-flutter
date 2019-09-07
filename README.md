@@ -2,7 +2,7 @@
 Screen Shorts.
 <img src="one.png"
      alt="Home"
-     style="float: left; margin-right: 10px; width:300px; height:700px" />
+     style="float: left; margin-right: 10px; width:100px; height:250px" />
 
 
 ## Getting Started
