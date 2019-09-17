@@ -1,7 +1,8 @@
 # BMI Calculator with flutter
-Screen Shorts.
-//![](one.png) ![](two.png)
+## Screenshots
+<table style={border:"none"}><tr><td><img src="one.png" alt="Home Screen(default)"/></td><td><img src="two.png" alt="Home Screen(Location Popup)"/></td><td><img src="https://github.com/TechieBlossom/flightapp/blob/master/screenshots/flight_list_screen.png" alt="Flight Listing Screen"/></td></tr></table>
 
+This project is now complete on 2nd January 2019.
 
 ## Getting Started
 
